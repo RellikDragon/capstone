@@ -49,7 +49,9 @@ group :development do
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
   gem 'devise', '~> 4.4', '>= 4.4.3'
-  gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+  gem 'bootstrap', '~> 4.0'
+  gem 'sprockets-rails', '~> 3.2', '>= 3.2.1'
+  gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
