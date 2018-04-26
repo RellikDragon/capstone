@@ -39,6 +39,7 @@ group :development, :test do
   gem 'rspec-rails', '~> 3.0'
   gem 'capybara'
   gem 'database_cleaner'
+  gem 'dotenv-rails', '~> 2.4'
 end
 
 group :development do
@@ -53,7 +54,6 @@ group :development do
   gem 'sprockets-rails', '~> 3.2', '>= 3.2.1'
   gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
   gem 'stripe', '~> 3.13'
-  gem 'dotenv-rails', '~> 2.4'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
