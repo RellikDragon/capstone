@@ -7,7 +7,7 @@ module ApplicationHelper
         title: "Home"
       },
       {
-        url: root_path,
+        # url: equipment_path,
         title: "Equipment"
       },
       {

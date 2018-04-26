@@ -1,25 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# capstone
+Things To Do:
+  [ ] Implement AWS using CarrierWave
+  [ ] Fix Equipment routing or delete entirely(?)
+  [ ] Implement calender system for doing reservations
+  [ ] Implement Stripe for payments
